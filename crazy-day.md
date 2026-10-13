@@ -1,8 +1,7 @@
 # 在福州的生活  
 ## 住宿方面  
 宿舍为四人寝，配备上床下桌，独立卫浴，基础设施较为完善。  
-![picture](<img width="1280" height="1707" alt="dd651e7961a19c0c5036f6d749c48126" src="https://github.com/user-attachments/assets/82f38dc1-1dec-4a08-a11d-2b79adee715c" />
- "宿舍")  
+<img width="1280" height="1707" alt="dd651e7961a19c0c5036f6d749c48126" src="https://github.com/user-attachments/assets/82f38dc1-1dec-4a08-a11d-2b79adee715c" />
 ## 饮食方面  
 食堂窗口多样，可以满足不同的口味，学校附近有面包店，古茗，瑞幸，KFC等等  
 ![picture](<img width="1280" height="1707" alt="4c4bc12b0af837d542cfa9ac103ce914" src="https://github.com/user-attachments/assets/5ed15cd5-a391-4ee9-95fc-6828546cd1ee" />
