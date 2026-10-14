@@ -15,3 +15,17 @@
 <img width="1438" height="976" alt="b646358a59bb3520b4e6230938bfa9d0" src="https://github.com/user-attachments/assets/b598d97b-d556-4f1a-baef-1a816c2daee4" />
 <img width="1280" height="1707" alt="22e6d838c78635464674105c8d1e9234" src="https://github.com/user-attachments/assets/7b699522-0765-4ec9-b1e7-0a47f3192809" />
 <img width="1707" height="1280" alt="ee1736bd634abbe5b01cb38cc79d3e85" src="https://github.com/user-attachments/assets/9b2e2de5-d7e0-430e-8030-d39dc280790b" />  
+- [福州大学官方主页](https://www.fzu.edu.cn/)
+- [福州大学本科招生网](https://zsb.fzu.edu.cn/)
+# 福州大学 程序设计基础示例
+'''print("欢迎来到福州大学！")
+name = "FZU Student"
+school = "Fuzhou University"
+print(f"{name} study hard at {school}")'''
+| 专业名称 | 学科等级 | 就业方向 | 特色优势 |
+|--------|----------|----------|----------|
+| 电气工程及其自动化 | 国家级一流专业 | 国家电网、电力系统 | 福建电网认可度全省第一 |
+| 网络空间安全 | 新兴王牌 | 网安、公安科信、国企安全岗 | 省内稀缺高薪专业 |
+| 计算机科学与技术 | 省重点学科 | 互联网、软件开发、算法 | 校企资源丰富 |
+| 土木工程 | 传统强势 | 中建、交通基建 | 全国老牌强专业 |
+| 物流管理（闽台合作） | 校企合作特色 | 供应链、企业管理 | 211文凭无标注 |
